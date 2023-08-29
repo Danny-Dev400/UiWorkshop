@@ -1,0 +1,8 @@
+Pages\ShoppingCartPage.class
+Pages\ProductDetailsPage.class
+UITests\Hooks.class
+Elements\NavBarElement.class
+UITests\Tests.class
+Pages\LoginPage.class
+Pages\BasePage.class
+Pages\ProductCatalogPage.class
